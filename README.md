@@ -4,9 +4,7 @@
 #### Last Edited: May 2019
 -------------------------------
 Languages/Tools:
- - HTML / SCSS
- - JavaScript / jQuery
- - Node.js
+ - PHP
 -------------------------------
 
 Description:
