@@ -22,7 +22,7 @@
 			} else {
 				// passed
 				// recipient email (using bluehost server)
-				$toEmail = 'billpalazzolo@eastcoastdesignsconstruction.com';
+				$toEmail = ''; // email address taken out for privacy concerns
 				$subject = 'Contact Request from ' .$name;
 				$body = '<h2>Contact Request</h2>
 					<h4>Name</h4><p>'.$name.'</p>
